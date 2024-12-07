@@ -4,6 +4,8 @@ I am an aspiring environmental data scientist hoping to expand my technical skil
 
 🌱 I am a Master's of Environmental Data Science grad student at the Bren School for Environmental Science & Management. I am originally from San Diego, California. My hobbies outside of coding include going for runs, hiking, and spending time with friends. 
 
+⭐ [My Personal Website)(bgrazda.github.io)
+🤙 Reach me through email: bgrazda@ucsb.edu
 
 <!--
 **bgrazda/bgrazda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
