@@ -1,4 +1,4 @@
-## Hi there, my name is Brooke! 👋
+## Hi there! My name is Brooke. 👋
 
 I am an aspiring environmental data scientist hoping to expand my technical skills in R and Python. ✨
 
