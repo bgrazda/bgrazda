@@ -2,7 +2,7 @@
 
 I am an aspiring environmental data scientist hoping to expand my technical skills in R and Python. ✨
 
-🌱 I am a Master's of Environmental Data Science grad student at the Bren School for Environmental Science & Management. I am originally from San Diego, California. My hobbies outside of coding include going for runs, hiking, and spending time outdoors with friends and animals. 
+🌱 I earned a Master's of Environmental Data Science (MEDS) degree at the Bren School for Environmental Science & Management. I am originally from San Diego, California. My hobbies outside of coding include going for runs, hiking, and spending time outdoors with friends and animals. 
 
 ⭐ [My Personal Website](https://bgrazda.github.io/)
 
